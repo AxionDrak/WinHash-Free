@@ -4,7 +4,7 @@ Copyright 2019, Laete Meireles (a.k.a Axion Drak)
 Licenced under GNU Free License version 3.0  
 Review LICENSE file for further details.   
 
-Hash creation and verification software.
+Hash creation and verification software. 
 
 ### ATTENTION!!!
 ----------------
