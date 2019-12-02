@@ -12,8 +12,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/bx08tdh8leadsw09/branch/master?svg=true)](https://ci.appveyor.com/project/laetemn/winhash-free/branch/master)
 [![GitHub contributors](https://img.shields.io/github/contributors/AxionDrak/WinHash-Free)](https://github.com/AxionDrak/WinHash-Free)
-
-[![Coverage Status](https://coveralls.io/repos/github/AxionDrak/PSX2CNFCreator/badge.svg?branch=master)](https://coveralls.io/github/AxionDrak/PSX2CNFCreator?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/AxionDrak/WinHash-Free/badge.svg?branch=master)](https://coveralls.io/github/AxionDrak/WinHash-Free?branch=master)
 
 Copyright 2019, Laete Meireles (a.k.a Axion Drak)   
 Licenced under GNU Free License version 3.0  
