@@ -9,8 +9,8 @@
 [![LAST commit](https://img.shields.io/github/last-commit/AxionDrak/WinHash-Free/master)](https://github.com/AxionDrak/WinHash-Free)
 [![Build Status](https://travis-ci.org/AxionDrak/WinHash-Free.svg?branch=master)](https://travis-ci.org/AxionDrak/WinHash-Free)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/7wdrpq87gxbb85nb/branch/master?svg=true)](https://ci.appveyor.com/project/laetemn/psx2cnfcreator/branch/master)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/bx08tdh8leadsw09/branch/master?svg=true)](https://ci.appveyor.com/project/laetemn/winhash-free/branch/master)
 [![GitHub contributors](https://img.shields.io/github/contributors/AxionDrak/WinHash-Free)](https://github.com/AxionDrak/WinHash-Free)
 
 [![Coverage Status](https://coveralls.io/repos/github/AxionDrak/PSX2CNFCreator/badge.svg?branch=master)](https://coveralls.io/github/AxionDrak/PSX2CNFCreator?branch=master)
